@@ -1,0 +1,4 @@
+pandas
+mysql-connector-python
+snowflake-connector-python
+python-dotenv
